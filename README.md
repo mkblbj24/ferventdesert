@@ -100,7 +100,7 @@ used:
 
 ## Licensing
 
-Please see the file called LICENSE.
+Please see the file called LICENSE(Apache License).
 
 ## Credits
 
